@@ -19,4 +19,4 @@
 <a href="https://discord.com/users/1061057600185180192" target="_blank"><img alt="CreepyX-Dev" float="left" src="https://img.shields.io/badge/Discord-creepyx-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white""></a>
 <br/>
 tjorven_liebe<br/><br/>
-GitHub: <a href="https://github.com/CreepyX-Dev/CreepyX-Dev/discussions/">Discussions!</a>CreepyX-Dev/discussions/">Discussions!</a>
+GitHub: <a href="https://github.com/CreepyX-Dev/CreepyX-Dev/discussions/">Discussions!</a>
