@@ -7,7 +7,7 @@
   <br/><br/>
 <div align=center>
 </div>
-
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CreepyX-Dev&theme=nord" alt="CreepyX-Dev" /></a> </p>
 <p align="center">These stats include my private repositories</p>
 </dl></dd></dl></dl></dd></dl></dl></dd></dl>
 <hr/>
