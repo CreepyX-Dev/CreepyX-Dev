@@ -6,6 +6,7 @@
 <img src="https://github.com/CreepyX-Dev/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" align="center"/>
   <br/><br/>
 <div align=center> 
+  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
   [![](https://github-readme-stats.vercel.app/api/wakatime?username=CreepyX)]
 </div>
 
